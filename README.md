@@ -1,4 +1,4 @@
-## BASIC-ANDROID-_EX_01
+## EX_1-(A)-Develop an application to create a Hello-world Activity using all life cycles methods to display messages
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
